@@ -1,6 +1,6 @@
 ### Oii! Eu sou a Isadora Menezes 👋
 
-- 🔭 Atualmente estudando Desenvolvimento Web FullStack - XP Gama
+- 🔭 Atualmente estudando Desenvolvimento Web - XP Gama
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas 1/5 - Faculdade Descomplica
 - 😄 Pronomes: ela/dela
 
